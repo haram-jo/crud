@@ -1,5 +1,5 @@
 ---
-applyTo: "**/{*Test.java,*IntegrationTest.java,*.test.js,*.test.ts,*.spec.js,*.spec.ts,__tests__/**}"
+applyTo: '**/{*Test.java,*IntegrationTest.java,*.test.js,*.test.ts,*.spec.js,*.spec.ts,__tests__/**}'
 ---
 
 # 테스트 규칙

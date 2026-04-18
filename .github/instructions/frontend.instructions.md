@@ -1,5 +1,5 @@
 ---
-applyTo: "**/*.{js,jsx,ts,tsx}"
+applyTo: '**/*.{js,jsx,ts,tsx}'
 ---
 
 # Frontend 개발 규칙

@@ -1,5 +1,5 @@
 ---
-applyTo: "**/*.java"
+applyTo: '**/*.java'
 ---
 
 # Backend 개발 규칙
